@@ -1,3 +1,4 @@
+#Armstrong Number
 n = input('Enter a Number')
 count = len(n);
 x = int(n)

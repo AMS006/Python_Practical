@@ -1,3 +1,4 @@
+#Harshad Number
 n = int(input('Enter a Number'))
 temp = n
 sum = 0
