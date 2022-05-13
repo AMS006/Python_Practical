@@ -1,4 +1,4 @@
-'''Swap two Numbers'''
+#Swap two Numbers
 a = int(input("Enter value of a "))
 b = int(input("Enter value of b "))
 a = a^b
