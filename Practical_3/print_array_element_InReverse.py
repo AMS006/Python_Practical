@@ -1,4 +1,8 @@
 #printing the element of the array in reverse order
-arr = [1,2,3,4,5]
-for i in range(arr.len):
-    print(arr[-i])
+n = int(input("Enter the size of array : "))
+arr = list(map(int, input("Enter the elements of the array : ").split()))
+i = len(arr)-1
+while(i>=0):
+    print(arr[i] , end = " ")
+    i = i-1
+    
